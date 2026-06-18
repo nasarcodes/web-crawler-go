@@ -19,7 +19,7 @@ A concurrent web crawler written in Go with rate limiting, robots.txt compliance
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/webcrawler.git
+git clone https://github.com/nasarcodes/web-crawler-go.git
 cd webcrawler
 go mod download
 ```
